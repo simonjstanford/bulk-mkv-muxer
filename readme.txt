@@ -1,6 +1,10 @@
-This a C#, multithreaded, time saving application that allows for batch muxing of multiple MKVs.
+This a C#, multithreaded, time saving application that allows for batch muxing of 
+multiple MKVs.
+
 
 Features:
+
+-Subtitles are automatically extracted and scanned for forced captions. 
 -Video, audio and subtitle streams can be easily muxed out.
 -External video, audio or subtitle files can be easily muxed in.  The file must be 
  compatible with MKV Merge (see below).
@@ -15,6 +19,9 @@ Features:
 -Drag and drop functionality for files and directories.
 -Writes all output to a log file.
 
+
+CLI Implementations
+
 -Implements the MKV Info CLI to read and display info for the component video, 
  audio and subtitle streams of an MKV.
 -Implements the MKV Extract CLI to extract all English subtitles from an MKV.
@@ -22,7 +29,9 @@ Features:
  captions for all English subtitles, and to extract all forced captions.
 -Implements the MKV Merge CLI for bulk muxing.
 
+
 Prerequisites
+
 -MKVToolNix must be installed, and the paths to relevant components must be 
  specified in the MKV Bulk Muxer options menu. MKVToolNix can be downloaded from 
  http://www.bunkus.org/videotools/mkvtoolnix/downloads.html
