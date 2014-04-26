@@ -1,5 +1,10 @@
 This a C#, multithreaded, time saving application that allows for batch muxing of 
-multiple MKVs.
+multiple MKVs.  Typically, this application would be used following the creation 
+of a set of MKVs from MakeMKV (http://makemkv.com/). A user would select the 
+appropriate tracks to extract, and keep all streams with the tracks selected. Bulk 
+MKV Muxer would then be used to scan the resulting MKVs to determine if any forced
+captions are present and to select the most appropriate video, audio and subtitle
+streams to keep in the MKV.
 
 
 Features:
