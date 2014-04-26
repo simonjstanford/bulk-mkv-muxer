@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MkvSubtitleDemuxer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JavaPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Java\jre7\bin\java.exe</Value>
+    </Setting>
+    <Setting Name="MkvExtractPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\MKVToolNix\mkvextract.exe</Value>
+    </Setting>
+    <Setting Name="MkvInfoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\MKVToolNix\mkvinfo.exe</Value>
+    </Setting>
+    <Setting Name="MkvMergePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\MKVToolNix\mkvmerge.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

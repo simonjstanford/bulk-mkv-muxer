@@ -1,0 +1,21 @@
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.csprojResolveAssemblyReference.cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.Properties.Resources.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.csproj.GenerateResource.Cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.pdb
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.exe
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.pdb
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.exe
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.pdb
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.GUI.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.Options.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.exe.config
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\bin\Debug\MkvSubtitleDemuxer.exe.config
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.GUI.resources
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\MkvSubtitleDemuxer\MkvSubtitleDemuxer\obj\x86\Debug\MkvSubtitleDemuxer.Options.resources
