@@ -1,10 +1,10 @@
 This a C#, multithreaded, time saving application that allows for batch muxing of 
 multiple MKVs.  Typically, this application would be used following the creation 
 of a set of MKVs from MakeMKV (http://makemkv.com/). A user would select the 
-appropriate tracks to extract, and keep all streams with the tracks selected. Bulk 
-MKV Muxer would then be used to scan the resulting MKVs to determine if any forced
-captions are present and to select the most appropriate video, audio and subtitle
-streams to keep in the MKV.
+appropriate tracks to extract, and keep all streams within the tracks selected. 
+Bulk MKV Muxer would then be used to scan the resulting MKVs to determine if any 
+forced captions are present and to select the most appropriate video, audio and 
+subtitle streams to keep in the MKV.
 
 
 Features:
@@ -21,6 +21,7 @@ Features:
  This suggestion is easily overridden.
 -A default stream can be specified when an MKV has multiple video, audio or 
  subtitle streams.
+-Using BDSup2Sub, subtitle stream captions can be viewed. 
 -Drag and drop functionality for files and directories.
 -Writes all output to a log file.
 
@@ -30,7 +31,7 @@ CLI Implementations
 -Implements the MKV Info CLI to read and display info for the component video, 
  audio and subtitle streams of an MKV.
 -Implements the MKV Extract CLI to extract all English subtitles from an MKV.
--Implements an embedded version of BDSp2Sub to determine the number of subtitle 
+-Implements an embedded version of BDSup2Sub to determine the number of subtitle 
  captions for all English subtitles, and to extract all forced captions.
 -Implements the MKV Merge CLI for bulk muxing.
 
