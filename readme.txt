@@ -1,5 +1,5 @@
-This a C#, multithreaded, time saving application that allows for batch muxing of 
-multiple MKVs.  
+This a time saving Windows application, written in C# and multithreaded, that allows
+for batch muxing of multiple MKVs.  
 
 Typically, this application would be used following the creation of a set of MKVs 
 from MakeMKV (http://makemkv.com/). A user would select the appropriate tracks to 
@@ -8,7 +8,7 @@ be used to scan the resulting MKVs to determine if any forced captions are prese
 and to select the most appropriate video, audio and subtitle streams to keep in the 
 MKV.
 
-Additionally, this application can be used to bulk change stream settings; an 
+Additionally, this application can be used to bulk change stream basic settings; an 
 external file can be added as a new stream to many MKVs, or default streams 
 changed.
 
