@@ -12,6 +12,12 @@ Additionally, this application can be used to bulk change stream basic settings;
 external file can be added as a new stream to many MKVs, or default streams 
 changed.
 
+Prerequisites **IMPORTANT** 
+
+-MKVToolNix must be installed, and the paths to relevant components must be 
+ specified in the MKV Bulk Muxer options menu. MKVToolNix can be downloaded from 
+ http://www.bunkus.org/videotools/mkvtoolnix/downloads.html
+
 
 Features:
 
@@ -40,13 +46,6 @@ CLI Implementations
 -Implements an embedded version of BDSup2Sub to determine the number of subtitle 
  captions for all English subtitles, and to extract all forced captions.
 -Implements the MKV Merge CLI for bulk muxing.
-
-
-Prerequisites
-
--MKVToolNix must be installed, and the paths to relevant components must be 
- specified in the MKV Bulk Muxer options menu. MKVToolNix can be downloaded from 
- http://www.bunkus.org/videotools/mkvtoolnix/downloads.html
 
 
 File types compatible with MKV Merge that can be muxed into MKVs:
