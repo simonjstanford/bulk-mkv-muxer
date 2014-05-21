@@ -24,7 +24,7 @@ Features:
 -Subtitles are automatically extracted and scanned for forced captions. 
 -Video, audio and subtitle streams can be easily muxed out.
 -External video, audio or subtitle files can be easily muxed in.  The file must be compatible with MKV Merge 
-(see below).
+ (see below).
 -Software logic suggests the most suitable streams to keep; a DTS audio stream would be chosen over Dolby 
  Digital, and most subtitle streams would be muxed out. The only subtitle streams that would be kept in the MKVs
  would be English language streams that only contain a few captions.  If forced captions are found in any of the
