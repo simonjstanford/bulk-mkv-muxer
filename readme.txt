@@ -49,4 +49,5 @@ File types compatible with MKV Merge that can be muxed into MKVs:
 
 ac3, eac3, aac, m4a, mp4, 264, avc, h264, x264, avi, caf, m4a, mp4, drc, thd, thd+ac3, truehd, true-hd, dts, 
 dtshd, dts-hd, flac, ogg, flv, ivf, mp4., m4v, mp2, mp3, mpg, mpeg, m2v, mpv, evo, evob, vob, ts, m2ts, mts,m1v,
-m2v, mpv, mpls, mka, mks, mkv, mk3d, webm, webmv, webma, sup, mov, ogg, ogm, ogv, opus, ogg, ra, ram, rm, rmvb, rv, srt, ass, ssa, tta, usf, xml,vc1, btn, idx, wav, wv, webm, webmv, webma.
+m2v, mpv, mpls, mka, mks, mkv, mk3d, webm, webmv, webma, sup, mov, ogg, ogm, ogv, opus, ogg, ra, ram, rm, rmvb, 
+rv, srt, ass, ssa, tta, usf, xml,vc1, btn, idx, wav, wv, webm, webmv, webma.
