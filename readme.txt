@@ -15,7 +15,6 @@ Prerequisites **IMPORTANT**
 
 -MKVToolNix must be installed, and the paths to relevant components must be specified in the MKV Bulk Muxer 
  options menu. MKVToolNix can be downloaded from http://www.bunkus.org/videotools/mkvtoolnix/downloads.html
-
 -Java is required for BDSup2Sub.
 
 
