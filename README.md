@@ -10,7 +10,7 @@ Additionally, this application can be used to bulk change stream basic settings;
 ## Prerequisites - Important##
 
 - [MKVToolNix](http://www.bunkus.org/videotools/mkvtoolnix/downloads.html) must be installed, and the paths to relevant components must be specified in the MKV Bulk Muxer options menu.
-- Java is required for BDSup2Sub.
+- [Java](https://www.java.com/en/download/) is required for [BDSup2Sub](http://www.videohelp.com/tools/BDSup2Sub).  A version of BDSup2Sub is embedded in the application, so you don't need to download it separately.
 
 
 ## Features ##
