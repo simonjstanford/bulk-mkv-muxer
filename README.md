@@ -1,6 +1,6 @@
 # Bulk MKV Muxer #
 
-This a time saving Windows application written in C# that allows for batch muxing of multiple MKVs.  
+This a time saving Windows application written in C# that allows for batch muxing of multiple [MKVs](http://www.matroska.org).  
 
 Typically, this application would be used following the creation of a set of MKVs from [MakeMKV](http://makemkv.com/). A user would select the appropriate tracks to  extract, and keep all streams within the tracks selected. Bulk MKV Muxer would then be used to scan the resulting MKVs to see how many captions each subtitle stream had, determine if any forced captions are present and to select the most appropriate video, audio and subtitle streams to keep in the MKV.
 
