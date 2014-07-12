@@ -30,7 +30,7 @@ Additionally, this application can be used to bulk change stream basic settings;
 - Implements the [mkvinfo](http://www.bunkus.org/videotools/mkvtoolnix/doc/mkvinfo.html) CLI to read and display info for the component video, audio and subtitle streams of an MKV.
 - Implements the [mkvextract](http://www.bunkus.org/videotools/mkvtoolnix/doc/mkvextract.html) CLI to extract all English subtitles from an MKV.
 - Implements an embedded version of BDSup2Sub to determine the number of subtitle captions for all English subtitles, and to extract all forced captions.
-- Implements the MKV Merge CLI for bulk muxing.
+- Implements the [mkvmerge](http://www.bunkus.org/videotools/mkvtoolnix/doc/mkvmerge.html)CLI for bulk muxing.
 
 ## Compatible File Types ##
 
